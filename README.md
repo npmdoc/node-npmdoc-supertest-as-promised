@@ -1,4 +1,7 @@
-# api documentation for  [supertest-as-promised (v4.0.2)](https://github.com/WhoopInc/supertest-as-promised)  [![npm package](https://img.shields.io/npm/v/npmdoc-supertest-as-promised.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-supertest-as-promised) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-supertest-as-promised.svg)](https://travis-ci.org/npmdoc/node-npmdoc-supertest-as-promised)
+# npmdoc-supertest-as-promised
+
+#### basic api documentation for  [supertest-as-promised (v4.0.2)](https://github.com/WhoopInc/supertest-as-promised)  [![npm package](https://img.shields.io/npm/v/npmdoc-supertest-as-promised.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-supertest-as-promised) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-supertest-as-promised.svg)](https://travis-ci.org/npmdoc/node-npmdoc-supertest-as-promised)
+
 #### Supercharge supertest with a promise interface
 
 [![NPM](https://nodei.co/npm/supertest-as-promised.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/supertest-as-promised)
@@ -80,7 +83,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "4.0.2"
+    "version": "4.0.2",
+    "bin": {}
 }
 ```
 
